@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dataflow:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-17T15:14:59.729376-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 603fb0af7f4108082537ce38549e2d24167269fb8d9dd82645a671963e9b2d44
+    name: dataflow
+    type: application
+    urls:
+    - https://harmonychat.github.io/helm-charts/dataflow-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-17T15:14:59.719953-03:00"
